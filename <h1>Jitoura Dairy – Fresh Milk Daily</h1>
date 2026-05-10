@@ -132,7 +132,18 @@ Jitoura Dairy 🥛
 
 </table>
 </div>
+<div class="section">
+<h2>Our Location 📍</h2>
 
+<iframe 
+  src="https://maps.google.com/maps?q=Milk%20Dairy%20Jitoura%20Bansdih%20Sahatwar&t=&z=15&ie=UTF8&iwloc=&output=embed"
+  width="90%" 
+  height="300" 
+  style="border:0; border-radius:10px;">
+</iframe>
+
+<p style="margin-top:10px;">📍 Milk Dairy, Jitoura (Bansdih - Sahatwar)</p>
+</div>
 <!-- Contact -->
 <div class="section">
 <h2>Contact Us</h2>
